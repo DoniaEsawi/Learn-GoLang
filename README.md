@@ -19,7 +19,7 @@
 <li>Interfaces </li>
 </ul>
 
-## Tutorial Structure
+## Files Structure
 
 ```bash
 ├───Ch01-DataTypes-AND-Variables
